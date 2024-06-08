@@ -1,2 +1,2 @@
-FROM registry.k8s.io/metrics-server/metrics-server:v0.7.1
+FROM kong:3.6
 LABEL name="metrics-server"
