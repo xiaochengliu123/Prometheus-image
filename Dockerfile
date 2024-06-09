@@ -1,2 +1,2 @@
-FROM apolloconfig/apollo-adminservice:2.2.0
+FROM apolloconfig/apollo-configservice:2.2.0
 LABEL name="metrics-server"
