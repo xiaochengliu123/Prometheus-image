@@ -1,2 +1,2 @@
-FROM k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.5.0
-LABEL name="metrics-server"
+FROM grafana/grafana:8.5.5
+LABEL name="grafana-grafana:8.5.5"
