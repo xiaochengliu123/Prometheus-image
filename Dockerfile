@@ -1,2 +1,2 @@
-FROM k8s.dockerproxy.com/metrics-server/metrics-server:v0.5.2
+FROM kong/kubernetes-ingress-controller:3.2
 LABEL name="apps"
