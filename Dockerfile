@@ -1,2 +1,2 @@
-FROM kong/kubernetes-ingress-controller:3.2
+FROM kong:3.6
 LABEL name="apps"
