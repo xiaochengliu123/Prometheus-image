@@ -1,2 +1,2 @@
-FROM docker.io/flannel/flannel:v0.22.0
+FROM docker.io/flannel/flannel-cni-plugin:v1.1.2
 LABEL name="calico"
