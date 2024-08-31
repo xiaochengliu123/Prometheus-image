@@ -1,2 +1,2 @@
-FROM docker.io/calico/kube-controllers:v3.26.4
+FROM docker.io/calico/typha:v3.26.4
 LABEL name="calico"
