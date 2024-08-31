@@ -1,2 +1,2 @@
-FROM docker.io/calico/kube-controllers:v3.26.4
+FROM tomcat:8.5.34-jre8-alpine
 LABEL name="calico"
