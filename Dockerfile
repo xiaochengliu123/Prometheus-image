@@ -1,2 +1,2 @@
-FROM docker.io/calico/node:v3.26.4
+FROM docker.io/flannel/flannel:v0.22.0
 LABEL name="calico"
