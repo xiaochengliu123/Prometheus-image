@@ -1,2 +1,2 @@
-FROM kong:3.6
-LABEL name="apps"
+FROM docker.io/calico/kube-controllers:v3.26.4
+LABEL name="calico"
