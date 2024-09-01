@@ -1,2 +1,2 @@
-FROM nginx:v1.25
+FROM nginx:1.14.2
 LABEL name="nginx"
