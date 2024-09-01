@@ -1,2 +1,2 @@
-FROM nginx:latest
+FROM nginx
 LABEL name="nginx"
