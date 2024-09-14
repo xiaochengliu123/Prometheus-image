@@ -1,2 +1,2 @@
-FROM nginx:1.14.2
-LABEL name="nginx"
+FROM grafana/grafana:10.0.1
+LABEL name="grafana"
